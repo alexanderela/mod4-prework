@@ -29,3 +29,7 @@ app.get('/json', (request, response) => {
 app.listen(3000, () => {
 	console.log('Express intro running on localhost:3000');
 });
+
+app.use(function (request, response, next) {
+	response.status(404).send("Sorry, human, that page doesn't exist!")
+})
