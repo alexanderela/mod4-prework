@@ -1,0 +1,11 @@
+{
+    "birth_year": "19 BBY",
+    "eye_color": "Blue",
+    "gender": "Male",
+    "hair_color": "Blond",
+    "height": "172",
+    "homeworld": "https://swapi.co/api/planets/1/",
+    "mass": "77",
+    "name": "Luke Skywalker",
+    "skin_color": "Fair"
+}
