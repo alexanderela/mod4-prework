@@ -21,3 +21,5 @@ function testNum(num) {
 
 
 testNum(15)
+
+testNum(5)
